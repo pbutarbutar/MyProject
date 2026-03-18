@@ -52,8 +52,9 @@ Penyedia berhak mengubah biaya dengan pemberitahuan.
 
 1. Pencairan dilakukan H+1  
 2. Paket Pro dapat pencairan fleksibel  
-3. Dana ditransfer ke rekening Merchant  
-4. Penyedia berhak menunda pencairan jika ada indikasi transaksi mencurigakan  
+3. Dana ditransfer ke rekening Merchant
+4. Setiap pencairan dana akan dikenakan biaya transfer melalui layanan BI-FAST sebesar Rp2.500  
+5. Penyedia berhak menunda pencairan jika ada indikasi transaksi mencurigakan  
 
 ---
 
