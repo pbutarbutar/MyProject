@@ -50,11 +50,12 @@ Penyedia berhak mengubah biaya dengan pemberitahuan.
 
 ## PASAL 4 – PENCAIRAN DANA
 
-1. Pencairan dilakukan H+1  
-2. Paket Pro dapat pencairan fleksibel  
-3. Dana ditransfer ke rekening Merchant
-4. Setiap pencairan dana akan dikenakan biaya transfer melalui layanan BI-FAST sebesar Rp2.500  
-5. Penyedia berhak menunda pencairan jika ada indikasi transaksi mencurigakan  
+1. Pencairan dana standar dilakukan pada H+1 (hari kerja berikutnya) setelah transaksi berhasil  
+2. Merchant pada Paket Pro dapat menggunakan fitur pencairan fleksibel (instant / sesuai permintaan) sesuai ketentuan yang berlaku  
+3. Dana akan ditransfer ke rekening yang telah didaftarkan oleh Merchant  
+4. Setiap pencairan dana akan dikenakan biaya transfer melalui layanan BI-FAST sebesar Rp2.500 per transaksi  
+5. Penyedia menetapkan batas maksimum pencairan dana sebesar Rp3.000.000 per hari per Merchant. Apabila jumlah pencairan melebihi batas tersebut, maka sisa dana akan diproses dan dicairkan pada hari berikutnya
+6. Penyedia berhak menunda atau menahan pencairan dana apabila terdapat indikasi transaksi mencurigakan atau pelanggaran ketentuan   
 
 ---
 
